@@ -1,7 +1,7 @@
-/fig2.mdb
-/figure2.pgm
-/figure2.ppm
+*.mdb
+*.pgm
+*.ppm
+*.pbm
+*.o
+
 /mandel
-/mandel.pbm
-/mandel.pgm
-/mandel.ppm

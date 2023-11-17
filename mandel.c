@@ -5,7 +5,7 @@
 #include "colors.h"
 
 /*
-	compile with: gcc -W -Wall -ansi -pedantic -o mandel mandel.c
+	compile with: gcc -W -Wall -ansi -pedantic -o mandel mandel.c -lm
 	https://programmationenlangagec.pages.emse.fr/des-calculs-et-des-images/Mandelbrot.html
 	https://programmationenlangagec.pages.emse.fr/des-calculs-et-des-images/Grille_evaluation.html
 */
